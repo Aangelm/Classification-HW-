@@ -1,6 +1,6 @@
 # Unit 11 - Risky Business
  
-![Credit Risk](Images/credit-risk.jpg)
+![credit-risk](https://user-images.githubusercontent.com/90700310/154863298-8c8d6cb4-79fd-471c-b3b4-53d18674f067.jpg)
 
 ## Background
 
